@@ -1,1 +1,2 @@
 this is a sample text file, text is ok. file updatina
+Updating directly on remote repo,
