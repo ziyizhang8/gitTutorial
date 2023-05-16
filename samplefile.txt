@@ -1,2 +1,2 @@
 this is a sample text file, text is ok. file updating
-Directly on remote repo, new updating, last test
+Directly on remote repo, new updating. last one
